@@ -1,6 +1,9 @@
 {
   "name": "devportfolio-template",
   "version": "1.2.2",
+  "engines": {
+    "node": "14.21.3"
+  },
   "description": "",
   "main": "js/scripts.js",
   "scripts": {
